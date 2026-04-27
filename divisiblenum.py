@@ -8,4 +8,3 @@ for i in range( 1,51):
     elif ((i%5)&(i%3))==0:
         print ("fizz & bizz")
     else :(i)
-    
